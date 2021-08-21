@@ -1,6 +1,6 @@
 # flutter_accelerometer
 
-A new Flutter project.
+A flutter project who obtain the data from device native accelerometer.
 
 ## Getting Started
 
